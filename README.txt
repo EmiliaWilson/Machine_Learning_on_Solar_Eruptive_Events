@@ -1,3 +1,7 @@
-Hi everyone,
+Summer of 2018 and Summer of 2019 Internship at NASA Goddard under Barbara Thompson.
 
-If you want the csvs that are used in the notebooks, just send me an email @ s18jwilson@severnschool.com. 
+Here is my final poster from Summer 2018
+
+![Summer of 2018]()
+
+![Summer of 2019]()
